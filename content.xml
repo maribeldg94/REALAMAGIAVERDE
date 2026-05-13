@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026051319594044JXJK</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026051319594087FRTC</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>LA MAGIA VERDE</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Mª Isabel Domínguez Gil</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Con este recurso descubrirás el fascinante mundo de las plantas mediante actividades de investigación, observación y trabajo cooperativo. Además, aprenderás a buscar y organizar información, utilizar diferentes herramientas digitales y desarrollar estrategias para trabajar en equipo y resolver pequeñas dificultades durante el proceso de aprendizaje.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778694145045</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp43fvsn-0z2jmj6qt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¡ARRANCAMOS!</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡ARRANCAMOS!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¡ARRANCAMOS!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-0z2jmj6qt</odePageId>
+      <odeBlockId>block-mp43fvsn-kx8dklexq</odeBlockId>
+      <blockName>CÓMO NOS ORGANIZAMOS</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-0z2jmj6qt</odePageId>
+          <odeBlockId>block-mp43fvsn-kx8dklexq</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvsn-th9igw3xb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🌿 Antes de comenzar nuestro proyecto, vamos a descubrir cómo trabajaremos para aprender juntos muchas cosas sobre el mundo de las plantas.</p>
+<p>¡Así nos organizaremos!</p>
+<p><br />1️⃣ Nos pondremos en equipos de 3 o 4 alumnos y alumnas. Cada grupo dispondrá de un ordenador y un pendrive para guardar sus investigaciones y actividades.</p>
+<p>2️⃣ A cada equipo se le asignará un tema relacionado con las plantas para investigar. Además, podréis utilizar diferentes páginas web educativas con información fiable y adaptada a vuestra edad.</p>
+<p>3️⃣ Para ayudaros durante la búsqueda, tendréis una ficha con preguntas y pistas que os servirán para encontrar la información más importante.</p>
+<p>4️⃣ Después, compartiremos en clase todo lo que cada grupo haya descubierto y aprendido durante la investigación.</p>
+<p>5️⃣ Finalmente, crearéis un trabajo digital en grupo utilizando Canva, donde recogeréis vuestros aprendizajes de una forma creativa y visual.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvsn-th9igw3xb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🌿 Antes de comenzar nuestro proyecto, vamos a descubrir cómo trabajaremos para aprender juntos muchas cosas sobre el mundo de las plantas.</p>\n<p>¡Así nos organizaremos!</p>\n<p><br />1️⃣ Nos pondremos en equipos de 3 o 4 alumnos y alumnas. Cada grupo dispondrá de un ordenador y un pendrive para guardar sus investigaciones y actividades.</p>\n<p>2️⃣ A cada equipo se le asignará un tema relacionado con las plantas para investigar. Además, podréis utilizar diferentes páginas web educativas con información fiable y adaptada a vuestra edad.</p>\n<p>3️⃣ Para ayudaros durante la búsqueda, tendréis una ficha con preguntas y pistas que os servirán para encontrar la información más importante.</p>\n<p>4️⃣ Después, compartiremos en clase todo lo que cada grupo haya descubierto y aprendido durante la investigación.</p>\n<p>5️⃣ Finalmente, crearéis un trabajo digital en grupo utilizando Canva, donde recogeréis vuestros aprendizajes de una forma creativa y visual.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-0z2jmj6qt</odePageId>
+      <odeBlockId>block-mp43fvso-l3qwtmr3k</odeBlockId>
+      <blockName>INFORMACIÓN GENERAL DEL PROYECTO</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-0z2jmj6qt</odePageId>
+          <odeBlockId>block-mp43fvso-l3qwtmr3k</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvso-zdutlqzcz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A través de esta <strong>infografía</strong> podrás conocer de qué trata nuestro proyecto y <strong>qué vamos a aprender.</strong></p>
+<figure class="exe-figure position-center" style="width: 1366px;"><img src="{{context_path}}/content/resources/UD La magia verde.jpg" title="Información general &quot;La Magia Verde&quot;" width="1366" height="1932" alt="" />
+<figcaption class="figcaption"><span class="author">María Isabel Domínguez Gil</span>. <span class="title"><em>Información general "La Magia Verde"</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvso-zdutlqzcz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A través de esta <strong>infografía</strong> podrás conocer de qué trata nuestro proyecto y <strong>qué vamos a aprender.</strong></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1366px;\"><img src=\"{{context_path}}/content/resources/UD La magia verde.jpg\" title=\"Información general &quot;La Magia Verde&quot;\" width=\"1366\" height=\"1932\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Isabel Domínguez Gil</span>. <span class=\"title\"><em>Información general \"La Magia Verde\"</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp43fvsn-tbqm5ykxm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-tbqm5ykxm</odePageId>
+      <odeBlockId>block-mp43fvso-br49aq9xj</odeBlockId>
+      <blockName>TAREAS Y CRITERIOS DE EVALUACIÓN</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-tbqm5ykxm</odePageId>
+          <odeBlockId>block-mp43fvso-br49aq9xj</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvso-1g04uvoos</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Si pinchas <a href="https://docs.google.com/document/d/1jeLFp1dS2-6LJk5h0r_j309kzlS0Bkux8MOhmhHkOIE/edit?tab=t.0#heading=h.v3kpl8zcktok" title="">aquí</a> encontrarás una tabla con la secuenciación de tareas que vamos a llevar a cabo vinculadas con sus respectivos criterios de evaluación (seleccionados de la Orden de 30 de mayo de 2023). Además, también se incluyen los agrupamientos, temporalización y herramientas necesarias en cada una de ellas. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvso-1g04uvoos","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Si pinchas <a href=\"https://docs.google.com/document/d/1jeLFp1dS2-6LJk5h0r_j309kzlS0Bkux8MOhmhHkOIE/edit?tab=t.0#heading=h.v3kpl8zcktok\" title=\"\">aquí</a> encontrarás una tabla con la secuenciación de tareas que vamos a llevar a cabo vinculadas con sus respectivos criterios de evaluación (seleccionados de la Orden de 30 de mayo de 2023). Además, también se incluyen los agrupamientos, temporalización y herramientas necesarias en cada una de ellas. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp43fvsn-pfvis2szy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRONOLOGÍA</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRONOLOGÍA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CRONOLOGÍA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-pfvis2szy</odePageId>
+      <odeBlockId>block-mp43fvso-yafrlvknq</odeBlockId>
+      <blockName>LÍNEA TEMPORAL</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-pfvis2szy</odePageId>
+          <odeBlockId>block-mp43fvso-yafrlvknq</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvso-2po50kuc0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: left;">Para que quede clara nuestra organización, os dejo a continuación nuestra línea del tiempo, donde se explica <strong>qué vamos a hacer</strong> en cada tarea de manera breve, qué <strong>tiempo </strong>emplearemos aproximadamente, cómo nos vamos a <strong>agrupar </strong>y qué <strong>recusos</strong> vamos a necesitar.</p>
+<figure class="exe-figure position-center" style="width: 1024px;"><img src="{{context_path}}/content/resources/Gráfico Línea de Tiempo La Magia Verde.jpg" title="Línea del tiempo &quot;La Magia Verde&quot;" width="1024" height="768" alt="" />
+<figcaption class="figcaption"><span class="author">María Isabel Domínguez Gil</span>. <span class="title"><em>Línea del tiempo "La Magia Verde"</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvso-2po50kuc0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: left;\">Para que quede clara nuestra organización, os dejo a continuación nuestra línea del tiempo, donde se explica <strong>qué vamos a hacer</strong> en cada tarea de manera breve, qué <strong>tiempo </strong>emplearemos aproximadamente, cómo nos vamos a <strong>agrupar </strong>y qué <strong>recusos</strong> vamos a necesitar.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1024px;\"><img src=\"{{context_path}}/content/resources/Gráfico Línea de Tiempo La Magia Verde.jpg\" title=\"Línea del tiempo &quot;La Magia Verde&quot;\" width=\"1024\" height=\"768\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Isabel Domínguez Gil</span>. <span class=\"title\"><em>Línea del tiempo \"La Magia Verde\"</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp43fvsn-4wtiprda3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CIBERCONSEJOS</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CIBERCONSEJOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CIBERCONSEJOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-4wtiprda3</odePageId>
+      <odeBlockId>block-mp43fvso-o2r1ngins</odeBlockId>
+      <blockName>CÓMO PROTEGERNOS EN EL MUNDO DIGITAL</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-4wtiprda3</odePageId>
+          <odeBlockId>block-mp43fvso-o2r1ngins</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvso-95xmbwfh9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de utilizar recursos digitales y buscar información en internet, vamos a conocer algunas recomendaciones importantes para hacerlo de forma segura y responsable. Fíjate bien en esta <strong>infografía </strong>y lee todos sus apartados. Gracias a estos consejos aprenderás a proteger tus datos personales, usar páginas web adecuadas y actuar correctamente mientras trabajas y navegas por la red.</p>
+<figure class="exe-figure position-center" style="width: 943px;"><img src="{{context_path}}/content/resources/01.jpg" width="943" height="2000" alt="" title="Consejos de ciberseguridad" />
+<figcaption class="figcaption"><span class="author">María Isabel Domínguez Gil</span>. <span class="title"><em>Consejos sobre ciberseguridad</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvso-95xmbwfh9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de utilizar recursos digitales y buscar información en internet, vamos a conocer algunas recomendaciones importantes para hacerlo de forma segura y responsable. Fíjate bien en esta <strong>infografía </strong>y lee todos sus apartados. Gracias a estos consejos aprenderás a proteger tus datos personales, usar páginas web adecuadas y actuar correctamente mientras trabajas y navegas por la red.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 943px;\"><img src=\"{{context_path}}/content/resources/01.jpg\" width=\"943\" height=\"2000\" alt=\"\" title=\"Consejos de ciberseguridad\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Isabel Domínguez Gil</span>. <span class=\"title\"><em>Consejos sobre ciberseguridad</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-4wtiprda3</odePageId>
+      <odeBlockId>block-mp43fvso-d6ra3zsg0</odeBlockId>
+      <blockName>Preguntas Verdadero-Falso</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-4wtiprda3</odePageId>
+          <odeBlockId>block-mp43fvso-d6ra3zsg0</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvso-yjjyrpd6n</odeIdeviceId>
+          <odeIdeviceTypeName>trueorfalse</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-trueorfalse-container">
+  
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-mp43fvso-yjjyrpd6n" data-evaluationb="false" data-evaluationid=""></div>
+        <div class="TOFP-instructions"><p><strong>Resuelve las preguntas con la información que acabas de leer.</strong></p></div>
+        <div class="TOFP-MainContainer" data-instance="idevice-mp43fvso-yjjyrpd6n" id="tofPMainContainer-idevice-mp43fvso-yjjyrpd6n">
+            <div class="TOFP-GameContainer" id="tofPGameContainer-idevice-mp43fvso-yjjyrpd6n">
+                <div class="TOFP-GameScoreBoard TOFP-EHidden">
+                    <div class="TOFP-TimeNumber">
+                        <strong><span class="sr-av">Time per question:</span></strong>
+                        <p id="tofPPTime-idevice-mp43fvso-yjjyrpd6n" class="TOFP-PTime">00:00:</p>
+                    </div>
+                </div>
+                <div class="TOFP-MessgeDiv" id="tofPMessageDiv-idevice-mp43fvso-yjjyrpd6n">
+                    <div class="TOFP-Message" id="tofPMessage-idevice-mp43fvso-yjjyrpd6n"></div>
+                </div>
+                <div class="TOFP-StartGameDiv TOFP-EHidden" id="tofPStartGameDiv-idevice-mp43fvso-yjjyrpd6n">
+                    <button  id="tofPStartGame-idevice-mp43fvso-yjjyrpd6n" type="button" class="btn btn-primary">Click here to start</button>
+                </div>
+                <div class="TOFP-Multimedia " id="tofPMultimedia-idevice-mp43fvso-yjjyrpd6n">
+                </div>
+                <div class="TOFP-CheckTestDiv TOFP-EHidden" id="tofPCheckTestDiv-idevice-mp43fvso-yjjyrpd6n">
+                    <button id="tofPCheckTest-idevice-mp43fvso-yjjyrpd6n" type="button" class="btn btn-primary">Check</button>
+                    <button id="tofRebootTest-idevice-mp43fvso-yjjyrpd6n" type="button" class="btn btn-primary TOFP-EHidden">Try again!</button>
+                </div>
+        </div> 
+        <div class="Games-BottonContainer">
+            <div class="Games-GetScore">
+                <input id="tofPSendScore-idevice-mp43fvso-yjjyrpd6n" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+            </div>
+        </div>
+        <div class="TOFP-After"></div>
+        <div class="questionsMedia" style="display:none"></div>
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-mp43fvso-yjjyrpd6n","typeGame":"TrueOrFalse","eXeGameInstructions":"<p><strong>Resuelve las preguntas con la información que acabas de leer.</strong></p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Click here to start","msgTime":"Time per question","msgNoImage":"No picture question","msgScoreScorm":"The score can't be saved because this page is not part of a SCORM package.","msgEndGameScore":"Please start the game before saving your score.","msgOnlySaveScore":"You can only save the score once!","msgOnlySave":"You can only save once","msgYouScore":"Your score","msgAuthor":"Authorship","msgOnlySaveAuto":"Your score will be saved after each question. You can only play once.","msgSaveAuto":"Your score will be automatically saved after each question.","msgSeveralScore":"You can save the score as many times as you want","msgYouLastScore":"The last score saved is","msgActityComply":"You have already done this activity.","msgPlaySeveralTimes":"You can do this activity as many times as you want","msgUncompletedActivity":"Incomplete activity","msgSuccessfulActivity":"Activity: Passed. Score: %s","msgUnsuccessfulActivity":"Activity: Not passed. Score: %s","msgTypeGame":"True or false","msgFeedback":"Feedback","msgSuggestion":"Suggestion","msgSolution":"Solution","msgQuestion":"Question","msgTrue":"True","msgFalse":"False","msgOk":"Correct","msgKO":"Incorrect","msgShow":"Show","msgHide":"Hide","msgCheck":"Check","msgReboot":"Try again!","msgScore":"Score","msgWeight":"Weight","msgNext":"Next","msgPrevious":"Previous"},"questionsRandom":false,"percentageQuestions":100,"isTest":false,"time":0,"questionsGame":[{"question":"<p><strong>1. Debemos compartir nuestras contraseñas con amigos y compañeros</strong></p>","feedback":"","suggestion":"","solution":0},{"question":"<p><strong>2. Si algo en internet nos hace sentir incómodos, debemos hablar con un adulto.</strong></p>","feedback":"","suggestion":"","solution":1},{"question":"<p><strong>3. No es necesario hacer copias de seguridad.</strong></p>","feedback":"","suggestion":"","solution":0},{"question":"<p><strong>4. Puedes proteger tus dispositivos con el uso de antivirus.</strong></p>","feedback":"","suggestion":"","solution":1},{"question":"<p><strong>5. Las fotos de otras personas se pueden compartir sin preguntarles.</strong></p>","feedback":"","suggestion":"","solution":0}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"","showSlider":false,"ideviceId":"idevice-mp43fvso-yjjyrpd6n"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp43fvsn-f6so8hoza</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LA MAGIA VERDE</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LA MAGIA VERDE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>LA MAGIA VERDE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LA MAGIA VERDE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-f6so8hoza</odePageId>
+      <odeBlockId>block-mp43fvsn-v8k4qdel6</odeBlockId>
+      <blockName>LA MAGIA VERDE</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-f6so8hoza</odePageId>
+          <odeBlockId>block-mp43fvsn-v8k4qdel6</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvsn-oyp4amjmc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Nuestro planeta no sería igual sin la presencia de las plantas. Nos proporcionan alimento, oxígeno y ayudan a cuidar el medio que nos rodea. Durante esta aventura aprenderás muchos secretos sobre ellas mediante retos, investigaciones y actividades sorprendentes. 🍃<br /><strong>¿Preparado/a para descubrir todo lo que esconden las plantas?</strong><br /> <br /></p>
+<figure class="exe-figure position-center" style="width: 1366px;"><img src="{{context_path}}/content/resources/ChatGPT Image 13 may 2026, 15_55_16.png" title="Presentación La Magia Verde" width="1366" height="911" alt="" />
+<figcaption class="figcaption"><span class="author">María Isabel Domínguez Gil</span>. <span class="title"><em>Presentación "La Magia Verde"</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: justify;"> </p>
+<p style="text-align: left;">Te propongo <strong>visualizar esta imagen</strong>: ¿Qué ocurriría si no existieran? <br /><br /><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvsn-oyp4amjmc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Nuestro planeta no sería igual sin la presencia de las plantas. Nos proporcionan alimento, oxígeno y ayudan a cuidar el medio que nos rodea. Durante esta aventura aprenderás muchos secretos sobre ellas mediante retos, investigaciones y actividades sorprendentes. 🍃<br /><strong>¿Preparado/a para descubrir todo lo que esconden las plantas?</strong><br /> <br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1366px;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 13 may 2026, 15_55_16.png\" title=\"Presentación La Magia Verde\" width=\"1366\" height=\"911\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Isabel Domínguez Gil</span>. <span class=\"title\"><em>Presentación \"La Magia Verde\"</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: justify;\"> </p>\n<p style=\"text-align: left;\">Te propongo <strong>visualizar esta imagen</strong>: ¿Qué ocurriría si no existieran? <br /><br /><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp43fvsn-e99o9kqvj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TAREAS</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>TAREAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-e99o9kqvj</odePageId>
+      <odeBlockId>block-1778690788746-xd355ukov</odeBlockId>
+      <blockName>PADLET</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-e99o9kqvj</odePageId>
+          <odeBlockId>block-1778690788746-xd355ukov</odeBlockId>
+          <odeIdeviceId>idevice-1778690788744-z0nfdoqct</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este muro colaborativo encontrarás vídeos, imágenes, actividades y recursos relacionados con nuestro proyecto “La Magia Verde”. 🌱 Aquí podrás repasar lo aprendido, compartir descubrimientos y seguir investigando sobre el fascinante mundo de las plantas de una forma divertida e interactiva.</p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 584px;" id="fig_7jgxfzb97"><iframe width="584" height="305" src="https://padlet.com/maribeldg94/la-magia-verde-xwn8c946q0ti2fmi" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">María Isabel Domínguez Gil</span>. <span class="title"><em>Padlet "La Magia Verde"</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778690788744-z0nfdoqct","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este muro colaborativo encontrarás vídeos, imágenes, actividades y recursos relacionados con nuestro proyecto “La Magia Verde”. 🌱 Aquí podrás repasar lo aprendido, compartir descubrimientos y seguir investigando sobre el fascinante mundo de las plantas de una forma divertida e interactiva.</p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 584px;\" id=\"fig_7jgxfzb97\"><iframe width=\"584\" height=\"305\" src=\"https://padlet.com/maribeldg94/la-magia-verde-xwn8c946q0ti2fmi\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">María Isabel Domínguez Gil</span>. <span class=\"title\"><em>Padlet \"La Magia Verde\"</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-e99o9kqvj</odePageId>
+      <odeBlockId>block-mp43fvso-2lr3vfk3h</odeBlockId>
+      <blockName>Symbaloo</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-e99o9kqvj</odePageId>
+          <odeBlockId>block-mp43fvso-2lr3vfk3h</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvso-hn5bdzrk4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A través de este <strong>Symbaloo </strong>podrás acceder rápidamente a todas las herramientas que puedan ser útiles en nuestro proyecto.</p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 560px;"><iframe width="560" height="620px" src="https://www.symbaloo.com/home/mix/13eOcXMWBW"></iframe>
+<figcaption class="figcaption"><span class="author">María Isabel Domínguez Gil</span>. <span class="title"><em>Symbaloo 4ºA</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvso-hn5bdzrk4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A través de este <strong>Symbaloo </strong>podrás acceder rápidamente a todas las herramientas que puedan ser útiles en nuestro proyecto.</p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 560px;\"><iframe width=\"560\" height=\"620px\" src=\"https://www.symbaloo.com/home/mix/13eOcXMWBW\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">María Isabel Domínguez Gil</span>. <span class=\"title\"><em>Symbaloo 4ºA</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp43fvsn-f5rxcu8u2</odePageId>
+  <odeParentPageId>page-mp43fvsn-e99o9kqvj</odeParentPageId>
+  <pageName>TAREA 1: ¿QUÉ VAMOS A INVESTIGAR?</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREA 1: ¿QUÉ VAMOS A INVESTIGAR?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>TAREA 1: ¿QUÉ VAMOS A INVESTIGAR?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-f5rxcu8u2</odePageId>
+      <odeBlockId>block-mp43fvsp-yu5goxtdd</odeBlockId>
+      <blockName>INVESTIGAMOS</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-f5rxcu8u2</odePageId>
+          <odeBlockId>block-mp43fvsp-yu5goxtdd</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvsp-lmpv90yuy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: left;">Esta tarea la vamos a realizar de manera individual. Para ello, vamos a leer varios textos que os pongo a continuación para conocer un poco más acerca de cómo es el ciclo de la vida de una planta, su clasificación, cuál es la importancia que tienen para la vida y cuáles son sus usos, realizaremos diferentes lecturas comprensivas de textos científicos de la temática de las plantas.</p>
+<p>Para ello, cuentas con <strong title="">diferentes lecturas </strong>y el <a href="https://padlet.com/maribeldg94/la-magia-verde-xwn8c946q0ti2fmi">padlet</a></p>
+<p><a href="https://es.slideshare.net/slideshow/sc1-leemos-sobre-las-plantas-s27pdf/252550360">Lectura 1: Las plantas y su ciclo de vida</a></p>
+<p><a href="https://www.ecologiaverde.com/la-importancia-de-las-plantas-2665.html">Lectura 2: La importancia de las plantas</a></p>
+<p><a href="https://www.ecologiaverde.com/que-son-las-plantas-2865.html">Lectura 3: Clasificación de las plantas</a></p>
+<figure class="exe-figure exe-image license-CC0" style="width: 1280px; text-align: center;"><img src="{{context_path}}/content/resources/books-5937823_1280.jpg" alt="" width="321" height="214" style="display: block; margin-left: auto; margin-right: auto;" />
+<figcaption class="figcaption"><span class="author">Pixabay</span>. <span class="title"><em>Libros</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvsp-lmpv90yuy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: left;\">Esta tarea la vamos a realizar de manera individual. Para ello, vamos a leer varios textos que os pongo a continuación para conocer un poco más acerca de cómo es el ciclo de la vida de una planta, su clasificación, cuál es la importancia que tienen para la vida y cuáles son sus usos, realizaremos diferentes lecturas comprensivas de textos científicos de la temática de las plantas.</p>\n<p>Para ello, cuentas con <strong title=\"\">diferentes lecturas </strong>y el <a href=\"https://padlet.com/maribeldg94/la-magia-verde-xwn8c946q0ti2fmi\">padlet</a></p>\n<p><a href=\"https://es.slideshare.net/slideshow/sc1-leemos-sobre-las-plantas-s27pdf/252550360\">Lectura 1: Las plantas y su ciclo de vida</a></p>\n<p><a href=\"https://www.ecologiaverde.com/la-importancia-de-las-plantas-2665.html\">Lectura 2: La importancia de las plantas</a></p>\n<p><a href=\"https://www.ecologiaverde.com/que-son-las-plantas-2865.html\">Lectura 3: Clasificación de las plantas</a></p>\n<figure class=\"exe-figure exe-image license-CC0\" style=\"width: 1280px; text-align: center;\"><img src=\"{{context_path}}/content/resources/books-5937823_1280.jpg\" alt=\"\" width=\"321\" height=\"214\" style=\"display: block; margin-left: auto; margin-right: auto;\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Pixabay</span>. <span class=\"title\"><em>Libros</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-f5rxcu8u2</odePageId>
+      <odeBlockId>block-mp43fvsp-uemt4h2q7</odeBlockId>
+      <blockName>REFLEXIONAMOS</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-f5rxcu8u2</odePageId>
+          <odeBlockId>block-mp43fvsp-uemt4h2q7</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvsp-sy03rh1u5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Después de haber accedido a la información, <strong>reflexionamos en una asamblea</strong>:</p>
+<ul>
+<li>¿Por qué son tan importantes las plantas?</li>
+<li>¿Qué tipos de plantas conocemos?</li>
+<li>¿Cómo es su ciclo de vida?</li>
+</ul>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Después de haber accedido a la información, <strong>reflexionamos en una asamblea</strong>:</p>\n<ul>\n<li>¿Por qué son tan importantes las plantas?</li>\n<li>¿Qué tipos de plantas conocemos?</li>\n<li>¿Cómo es su ciclo de vida?</li>\n</ul>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp43fvsn-ixaokjyf5</odePageId>
+  <odeParentPageId>page-mp43fvsn-e99o9kqvj</odeParentPageId>
+  <pageName>TAREA 2: ¿QUÉ OCURRIRÍA SI NO EXISTIERAN LAS PLANTAS?</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREA 2: ¿QUÉ OCURRIRÍA SI NO EXISTIERAN LAS PLANTAS?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>TAREA 2: ¿QUÉ OCURRIRÍA SI NO EXISTIERAN LAS PLANTAS?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-ixaokjyf5</odePageId>
+      <odeBlockId>block-mp43fvsp-ze60ovz5q</odeBlockId>
+      <blockName>DIME POR QUÉ</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-ixaokjyf5</odePageId>
+          <odeBlockId>block-mp43fvsp-ze60ovz5q</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvsp-rlks11zqh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En esta tarea nos vamos a colocar en grupos de 4 para responder a una pregunta fundamental: ¿Por qué es tan importante que cuidemos las plantas que nos rodean?  Tras leer esta presentación que os dejo a continuación, podremos dar varias razones por las que necesitamos cuidar estos seres vivos. <strong>¡Adelante!</strong></p>
+<figure class="exe-figure exe-media license-CC0" style="width: 500xpx;" id="fig_6ni31g7ns"><iframe width="500x" height="300px" src="https://view.genially.com/6466e53bfc1abe00105bea51" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="author">Rosa María Mancilla Hernández.</span> <span class="title"><em>La importancia de las plantas.</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvsp-rlks11zqh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En esta tarea nos vamos a colocar en grupos de 4 para responder a una pregunta fundamental: ¿Por qué es tan importante que cuidemos las plantas que nos rodean?  Tras leer esta presentación que os dejo a continuación, podremos dar varias razones por las que necesitamos cuidar estos seres vivos. <strong>¡Adelante!</strong></p>\n<figure class=\"exe-figure exe-media license-CC0\" style=\"width: 500xpx;\" id=\"fig_6ni31g7ns\"><iframe width=\"500x\" height=\"300px\" src=\"https://view.genially.com/6466e53bfc1abe00105bea51\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Rosa María Mancilla Hernández.</span> <span class=\"title\"><em>La importancia de las plantas.</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp43fvsn-jl6ih0asx</odePageId>
+  <odeParentPageId>page-mp43fvsn-e99o9kqvj</odeParentPageId>
+  <pageName>TAREA 3: LAS PLANTAS EN NUESTRA VIDA</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREA 3: LAS PLANTAS EN NUESTRA VIDA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>TAREA 3: LAS PLANTAS EN NUESTRA VIDA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-jl6ih0asx</odePageId>
+      <odeBlockId>block-mp43fvsp-pn47kezoj</odeBlockId>
+      <blockName>PARA QUÉ SIRVEN</blockName>
+      <iconName>task</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-jl6ih0asx</odePageId>
+          <odeBlockId>block-mp43fvsp-pn47kezoj</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvsp-bt11i4bjh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">A continuación, nos vamos a colocar en parejas y vamos a escribir entre los dos los diferentes usos que conocemos que puede tener una planta.</p>
+<p style="text-align: justify;">Después, vamos a visualizar varios vídeos y la imagen de la actividad... ¿Serás capaz de encontrar usos que no conocíamos? Cuando finalicéis, es necesario plasmarlo en un folio a través de un <strong>esquema</strong>, ya que, como veréis, podemos clasificar también las plantas según su utilidad. </p>
+<figure class="exe-figure position-center" style="width: 1366px;"><img src="{{context_path}}/content/resources/ChatGPT Image 13 may 2026, 16_58_52.png" title="Utilidades de las plantas" width="1366" height="911" alt="" />
+<figcaption class="figcaption"><span class="author">María Isabel Domínguez Gil</span>. <span class="title"><em>Infografía "Utilidades de las plantas"</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><a href="https://www.youtube.com/watch?v=YzUnd42mocw">Vídeo 1: La utilidad de las plantas</a></p>
+<p><a href="https://www.youtube.com/watch?v=H8_JA6ejy7E">Vídeo 2: Usos de las plantas</a></p>
+<p><a href="https://www.youtube.com/watch?v=D7hfybRR6NQ">Vídeo 3: Las plantas y su utilidad</a></p>
+<p></p>
+<p>A continuación, realizaremos estas<strong> fichas interactivas </strong>para practicar lo aprendido hasta el momento:</p>
+<p><a href="https://www.liveworksheets.com/es/w/es/ciencias-de-la-naturaleza/147802">https://www.liveworksheets.com/es/w/es/ciencias-de-la-naturaleza/147802</a></p>
+<p><a href="https://www.liveworksheets.com/es/w/es/ciencias-naturales/2315982">https://www.liveworksheets.com/es/w/es/ciencias-naturales/2315982</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvsp-bt11i4bjh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">A continuación, nos vamos a colocar en parejas y vamos a escribir entre los dos los diferentes usos que conocemos que puede tener una planta.</p>\n<p style=\"text-align: justify;\">Después, vamos a visualizar varios vídeos y la imagen de la actividad... ¿Serás capaz de encontrar usos que no conocíamos? Cuando finalicéis, es necesario plasmarlo en un folio a través de un <strong>esquema</strong>, ya que, como veréis, podemos clasificar también las plantas según su utilidad. </p>\n<figure class=\"exe-figure position-center\" style=\"width: 1366px;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 13 may 2026, 16_58_52.png\" title=\"Utilidades de las plantas\" width=\"1366\" height=\"911\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Isabel Domínguez Gil</span>. <span class=\"title\"><em>Infografía \"Utilidades de las plantas\"</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><a href=\"https://www.youtube.com/watch?v=YzUnd42mocw\">Vídeo 1: La utilidad de las plantas</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=H8_JA6ejy7E\">Vídeo 2: Usos de las plantas</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=D7hfybRR6NQ\">Vídeo 3: Las plantas y su utilidad</a></p>\n<p></p>\n<p>A continuación, realizaremos estas<strong> fichas interactivas </strong>para practicar lo aprendido hasta el momento:</p>\n<p><a href=\"https://www.liveworksheets.com/es/w/es/ciencias-de-la-naturaleza/147802\">https://www.liveworksheets.com/es/w/es/ciencias-de-la-naturaleza/147802</a></p>\n<p><a href=\"https://www.liveworksheets.com/es/w/es/ciencias-naturales/2315982\">https://www.liveworksheets.com/es/w/es/ciencias-naturales/2315982</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-jl6ih0asx</odePageId>
+      <odeBlockId>block-mp43fvsp-hax7i229a</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-jl6ih0asx</odePageId>
+          <odeBlockId>block-mp43fvsp-hax7i229a</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvsp-79opoa1bv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp43fvsn-0sxfoq2vl</odePageId>
+  <odeParentPageId>page-mp43fvsn-e99o9kqvj</odeParentPageId>
+  <pageName>TAREA 4: ¿QUÉ PLANTAS NOS RODEAN?</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREA 4: ¿QUÉ PLANTAS NOS RODEAN?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>TAREA 4: ¿QUÉ PLANTAS NOS RODEAN?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-0sxfoq2vl</odePageId>
+      <odeBlockId>block-mp43fvsp-xt18ekd4a</odeBlockId>
+      <blockName>CALENTANDO MOTORES</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-0sxfoq2vl</odePageId>
+          <odeBlockId>block-mp43fvsp-xt18ekd4a</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvsp-df62j5qez</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 1.05em;">Vamos a calentar motores para descubrir si sois capaces de identificar diferentes plantas... Para ello vamos a realizar 2 juegos. </span></p>
+<p><span style="font-size: 1.05em;">En el primero visualizaremos este vídeo en el que tendrás que anotar tus respuestas y las comprobaremos después.</span></p>
+<figure class="exe-figure exe-media position-center license-CC0" style="width: 560px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/90xq-y3I_NY?si=EK8xp-YfzHvTnWSL" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="author">Mental Quiz</span>. <span class="title"><em>Advina el nombre con una imagen</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></figcaption>
+<span style="font-size: 1.05em;"></span></figure>
+<p>Para realizar el segundo juego pincha <a href="https://wordwall.net/es/resource/23689570/adivina-las-flores" title="">aquí</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvsp-df62j5qez","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 1.05em;\">Vamos a calentar motores para descubrir si sois capaces de identificar diferentes plantas... Para ello vamos a realizar 2 juegos. </span></p>\n<p><span style=\"font-size: 1.05em;\">En el primero visualizaremos este vídeo en el que tendrás que anotar tus respuestas y las comprobaremos después.</span></p>\n<figure class=\"exe-figure exe-media position-center license-CC0\" style=\"width: 560px;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/90xq-y3I_NY?si=EK8xp-YfzHvTnWSL\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Mental Quiz</span>. <span class=\"title\"><em>Advina el nombre con una imagen</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n<span style=\"font-size: 1.05em;\"></span></figure>\n<p>Para realizar el segundo juego pincha <a href=\"https://wordwall.net/es/resource/23689570/adivina-las-flores\" title=\"\">aquí</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-0sxfoq2vl</odePageId>
+      <odeBlockId>block-mp43fvsp-nhjcwhzux</odeBlockId>
+      <blockName>INVESTIGAMOS NUESTRO ENTORNO</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-0sxfoq2vl</odePageId>
+          <odeBlockId>block-mp43fvsp-nhjcwhzux</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvsp-jvok6zlam</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¡Ahora sí!</strong> Estamos listos/as para la aventura de localizar el mayor número de plantas posibles que nos rodean. Para ello, saldremos por el barrio y estaremos más tiempo en el parque. Nos colocaremos en grupos de 4 y nos llevaremos nuestro <strong>cuaderno de campo,</strong> donde escribiremos la planta que nos hemos encontrado y dónde la encontramos. Luego buscaremos en Internet algo sobre ella y colocaremos su foto. </p>
+<figure class="exe-figure position-center" style="width: 1366px;"><img src="{{context_path}}/content/resources/girls-looking-grass-through-magnifying-glass.jpg" title="Niños/as investigando" width="1366" height="912" alt="" />
+<figcaption class="figcaption"><a href="https://www.magnific.com/es/foto-gratis/chicas-mirando-hierba-traves-lupa_5682292.htm#fromView=keyword&amp;page=1&amp;position=9&amp;uuid=8e23ccb2-2dcc-4934-8bf4-8e36bcf34662&amp;query=Ninos+investigando" class="author" target="_blank" rel="noopener">Magnific</a>. <span class="title"><em>Chicas mirando la hierba a través de la lupa</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Imagen gratuita obtenida de Magnific para uso educativo</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvsp-jvok6zlam","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¡Ahora sí!</strong> Estamos listos/as para la aventura de localizar el mayor número de plantas posibles que nos rodean. Para ello, saldremos por el barrio y estaremos más tiempo en el parque. Nos colocaremos en grupos de 4 y nos llevaremos nuestro <strong>cuaderno de campo,</strong> donde escribiremos la planta que nos hemos encontrado y dónde la encontramos. Luego buscaremos en Internet algo sobre ella y colocaremos su foto. </p>\n<figure class=\"exe-figure position-center\" style=\"width: 1366px;\"><img src=\"{{context_path}}/content/resources/girls-looking-grass-through-magnifying-glass.jpg\" title=\"Niños/as investigando\" width=\"1366\" height=\"912\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://www.magnific.com/es/foto-gratis/chicas-mirando-hierba-traves-lupa_5682292.htm#fromView=keyword&amp;page=1&amp;position=9&amp;uuid=8e23ccb2-2dcc-4934-8bf4-8e36bcf34662&amp;query=Ninos+investigando\" class=\"author\" target=\"_blank\" rel=\"noopener\">Magnific</a>. <span class=\"title\"><em>Chicas mirando la hierba a través de la lupa</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Imagen gratuita obtenida de Magnific para uso educativo</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp43fvsn-4ihclavw3</odePageId>
+  <odeParentPageId>page-mp43fvsn-e99o9kqvj</odeParentPageId>
+  <pageName>TAREA 5: PEQUEÑOS BOTÁNICOS</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREA 5: PEQUEÑOS BOTÁNICOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>TAREA 5: PEQUEÑOS BOTÁNICOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-4ihclavw3</odePageId>
+      <odeBlockId>block-mp43fvsp-12zu6hmkp</odeBlockId>
+      <blockName>CUIDAMOS NUESTRAS PLANTAS</blockName>
+      <iconName>task</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-4ihclavw3</odePageId>
+          <odeBlockId>block-mp43fvsp-12zu6hmkp</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvsp-ieix0h0w7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta tarea vamos a conocer el crecimiento de una planta y los cuidados que necesita.</p>
+<p>Para eso, os dejo en primer lugar el siguiente <a href="https://www.youtube.com/watch?v=UOFdByknsY8" title="">vídeo</a> </p>
+<p>Después, os propongo realizar en pareja este <strong>flipbook</strong>, que os servirá como repaso al hacerlo y os facilitará el estudio. Podéis consultar el <a href="https://padlet.com/maribeldg94/la-magia-verde-xwn8c946q0ti2fmi" title="">padlet</a> para completarlo.</p>
+<p><iframe width="700" height="300" src="{{context_path}}/content/resources/flipbook_las_plantas_PARTES_recursosep_BYN.pdf"></iframe><br /><br /></p>
+<p><strong>Por último, también en pareja, podéis practicas las siguientes actividades interactivas para valorar lo que habéis aprendido:</strong></p>
+<p><strong><a href="https://www.liveworksheets.com/es/w/es/ciencias-de-la-naturaleza/2269316">Actividad Liveworksheet: tipos de plantas</a></strong></p>
+<p><strong><a href="https://wordwall.net/es/resource/3924277/la-fotosintesis">Actividad Wordwall: la fotosíntesis</a></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvsp-ieix0h0w7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta tarea vamos a conocer el crecimiento de una planta y los cuidados que necesita.</p>\n<p>Para eso, os dejo en primer lugar el siguiente <a href=\"https://www.youtube.com/watch?v=UOFdByknsY8\" title=\"\">vídeo</a> </p>\n<p>Después, os propongo realizar en pareja este <strong>flipbook</strong>, que os servirá como repaso al hacerlo y os facilitará el estudio. Podéis consultar el <a href=\"https://padlet.com/maribeldg94/la-magia-verde-xwn8c946q0ti2fmi\" title=\"\">padlet</a> para completarlo.</p>\n<p><iframe width=\"700\" height=\"300\" src=\"{{context_path}}/content/resources/flipbook_las_plantas_PARTES_recursosep_BYN.pdf\"></iframe><br /><br /></p>\n<p><strong>Por último, también en pareja, podéis practicas las siguientes actividades interactivas para valorar lo que habéis aprendido:</strong></p>\n<p><strong><a href=\"https://www.liveworksheets.com/es/w/es/ciencias-de-la-naturaleza/2269316\">Actividad Liveworksheet: tipos de plantas</a></strong></p>\n<p><strong><a href=\"https://wordwall.net/es/resource/3924277/la-fotosintesis\">Actividad Wordwall: la fotosíntesis</a></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp43fvsn-rckcsapyk</odePageId>
+  <odeParentPageId>page-mp43fvsn-e99o9kqvj</odeParentPageId>
+  <pageName>TAREA 6: NACEN, CRECEN, SE REPRODUCEN Y MUEREN</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREA 6: NACEN, CRECEN, SE REPRODUCEN Y MUEREN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>TAREA 6: NACEN, CRECEN, SE REPRODUCEN Y MUEREN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-rckcsapyk</odePageId>
+      <odeBlockId>block-mp43fvsp-ag7eqs0v5</odeBlockId>
+      <blockName>Funciones vitales</blockName>
+      <iconName>task</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-rckcsapyk</odePageId>
+          <odeBlockId>block-mp43fvsp-ag7eqs0v5</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvsp-sni86q8ep</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para finalizar, vamos conocer las funciones vitales de las plantas. En los siguientes vídeos, podréis ir descubriendo cada una de las funciones:</p>
+<p><a href="https://www.youtube.com/watch?v=ru6rZNQg3eM" title="">Función de nutrición. La fotosíntesis</a></p>
+<p><a href="https://www.youtube.com/watch?v=5-CLWbeBkrs" title="">La función de reproducción. Sexual</a></p>
+<p><a href="https://www.youtube.com/watch?v=ZzhJAUq0fps" title="">Función de reproducción. Asexual</a></p>
+<p><a href="https://www.youtube.com/watch?v=BczsT-o6a_4" title="">Función de nutrición y relación</a></p>
+<p></p>
+<p>Por último, os dejo el siguiente enlace de Liveworksheets para comprobar lo que habéis aprendido:</p>
+<p><a href="https://www.liveworksheets.com/w/es/ciencias-de-la-naturaleza/565302" title="">Livesworksheet: completar funciones</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvsp-sni86q8ep","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para finalizar, vamos conocer las funciones vitales de las plantas. En los siguientes vídeos, podréis ir descubriendo cada una de las funciones:</p>\n<p><a href=\"https://www.youtube.com/watch?v=ru6rZNQg3eM\" title=\"\">Función de nutrición. La fotosíntesis</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=5-CLWbeBkrs\" title=\"\">La función de reproducción. Sexual</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=ZzhJAUq0fps\" title=\"\">Función de reproducción. Asexual</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=BczsT-o6a_4\" title=\"\">Función de nutrición y relación</a></p>\n<p></p>\n<p>Por último, os dejo el siguiente enlace de Liveworksheets para comprobar lo que habéis aprendido:</p>\n<p><a href=\"https://www.liveworksheets.com/w/es/ciencias-de-la-naturaleza/565302\" title=\"\">Livesworksheet: completar funciones</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-rckcsapyk</odePageId>
+      <odeBlockId>block-1778689036560-drky6ba42</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-rckcsapyk</odePageId>
+          <odeBlockId>block-1778689036560-drky6ba42</odeBlockId>
+          <odeIdeviceId>idevice-1778689036552-vbfqqt63u</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1778689036552-vbfqqt63u" data-evaluationb="false" data-evaluationid="045748f5-d1b2-4128-97af-93dc7f63185d"></div>
+            <div id="frmMainContainer-idevice-1778689036552-vbfqqt63u" class="form-IDevice" data-id="idevice-1778689036552-vbfqqt63u">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1778689036552-vbfqqt63u">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1778689036552-vbfqqt63u" style="display:none;">
+                      <button  id="frmStartGame-idevice-1778689036552-vbfqqt63u" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1778689036552-vbfqqt63u" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1778689036552-vbfqqt63u" > </div>
+                        <div id="frmCover-idevice-1778689036552-vbfqqt63u" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1778689036552-vbfqqt63u" class="form-results-container inline">
+                        <div id="form-score-idevice-1778689036552-vbfqqt63u" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1778689036552-vbfqqt63u" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1778689036552-vbfqqt63u" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1778689036552-vbfqqt63u" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1778689036552-vbfqqt63u" type="button" value="Reiniciar"
+                            data-id="idevice-1778689036552-vbfqqt63u" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1778689036552-vbfqqt63u" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1778689036552-vbfqqt63u" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1778689036552-vbfqqt63u" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778689036552-vbfqqt63u","evaluation":false,"evaluationID":"045748f5-d1b2-4128-97af-93dc7f63185d","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1778689036552-vbfqqt63u","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1778689210139-XCSDK","activityType":"selection","baseText":"<p>¿Qué necesitan las plantas para realizar la fotosíntesis?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Agua, luz solar y tierra"],[false,"Solo tierra"],[false,"Con agua y luz es suficiente"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778689345689-LMGOJ","activityType":"selection","baseText":"<p>¿Por qué son importantes las plantas para la vida en la Tierra?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Porque son muy bonitas"],[true,"Porque nos dan oxígeno"],[false,"Porque expulsan dióxido de carbono"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778689519481-3J2P3","activityType":"selection","baseText":"<p>¿Cuál es la función principal de las hojas?<br /><br /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Sujetar la planta\n"],[true,"Realizar la fotosíntesis "],[false,"Absorber agua del suelo"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778689587906-8HC6L","activityType":"selection","baseText":"<p>¿Qué necesitan muchas plantas para poder reproducirse?<br /><br /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"La polinización "],[false,"Dormir por la noche\n"],[false,"Cambiar de lugar"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778689714328-0VAQX","activityType":"selection","baseText":"<p>¿Qué sale primero cuando una semilla empieza a germinar?<br /><br /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"La flor\n"],[true,"La raíz\n"],[false,"El fruto"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778689931413-D2C1S","activityType":"selection","baseText":"<p>¿Dónde se encuentran normalmente las semillas de una planta?<br /><br /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"En las raíces\n"],[true,"Dentro del fruto\n"],[false,"En el tallo"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1778690031663-G0PU8","activityType":"selection","baseText":"<p>¿Cómo reaccionan las plantas cuando necesitan luz solar?<br /><br /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Moviendo sus hojas o tallos hacia la luz\n"],[false,"Caminando hacia otro lugar\n"],[false,"Cerrando sus raíces"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp43fvsn-0rujxd808</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>REALIZAMOS NUESTRO CANVA</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>REALIZAMOS NUESTRO CANVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>REALIZAMOS NUESTRO CANVA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-0rujxd808</odePageId>
+      <odeBlockId>block-mp43fvsp-n9kzhvz0w</odeBlockId>
+      <blockName>ELABORAMOS EL PRODUCTO FINAL</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-0rujxd808</odePageId>
+          <odeBlockId>block-mp43fvsp-n9kzhvz0w</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvsp-cfexi3zfp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🌱 ¡Ya estamos llegando al final de nuestro proyecto!</p>
+<p>Ahora toca demostrar todo lo que habéis aprendido creando una presentación con Canva. En ella deberéis incluir la información más importante que hemos descubierto sobre las plantas.</p>
+<p><strong> Recuerda</strong> añadir:</p>
+<ul>
+<li>Las partes de la planta.</li>
+<li>Los tipos de plantas.</li>
+<li>Las funciones vitales, especialmente desarrolla la fotosíntesis.</li>
+<li>La importancia de las plantas y sus diferentes usos.</li>
+</ul>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvsp-cfexi3zfp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🌱 ¡Ya estamos llegando al final de nuestro proyecto!</p>\n<p>Ahora toca demostrar todo lo que habéis aprendido creando una presentación con Canva. En ella deberéis incluir la información más importante que hemos descubierto sobre las plantas.</p>\n<p><strong> Recuerda</strong> añadir:</p>\n<ul>\n<li>Las partes de la planta.</li>\n<li>Los tipos de plantas.</li>\n<li>Las funciones vitales, especialmente desarrolla la fotosíntesis.</li>\n<li>La importancia de las plantas y sus diferentes usos.</li>\n</ul>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-0rujxd808</odePageId>
+      <odeBlockId>block-mp43fvsp-sjbrowf7v</odeBlockId>
+      <blockName>USO DE CANVA</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-0rujxd808</odePageId>
+          <odeBlockId>block-mp43fvsp-sjbrowf7v</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvsp-p5xxaji7h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Para presentar vuestro trabajo con la herramienta de <a href="https://www.canva.com/">Canva</a>, os propongo visualizar el siguiente tutorial con el que os será más fácil su manejo. ¡Adelante!</p>
+<figure class="exe-figure exe-media position-center license-CC0" style="width: 560px; text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/po7yiNQEb20?si=TbCpZQt8aGEHTQ_c" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">EduArTic</span>. <span class="title"><em>Canva para niños</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>Para presentar vuestro trabajo con la herramienta de <a href=\"https://www.canva.com/\">Canva</a>, os propongo visualizar el siguiente tutorial con el que os será más fácil su manejo. ¡Adelante!</p>\n<figure class=\"exe-figure exe-media position-center license-CC0\" style=\"width: 560px; text-align: center;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/po7yiNQEb20?si=TbCpZQt8aGEHTQ_c\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">EduArTic</span>. <span class=\"title\"><em>Canva para niños</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp43fvsn-ax9pg1t6b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-ax9pg1t6b</odePageId>
+      <odeBlockId>block-mp43fvsp-wgjdhoj1m</odeBlockId>
+      <blockName>RÚBRICA DE EVALUACIÓN</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-ax9pg1t6b</odePageId>
+          <odeBlockId>block-mp43fvsp-wgjdhoj1m</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvsp-14xcw0pnz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La <strong>rúbrica</strong> os servirá como una guía para saber qué aspectos se van a tener en cuenta durante la realización de las actividades y qué debéis conseguir en cada uno de los niveles. Gracias a ella, podréis conocer de forma más clara <strong>cómo será vuestra evaluación</strong> y <strong>qué podéis hacer para mejorar vuestro trabajo.</strong></p>
+<p>En esta rúbrica se explica qué se espera en cada criterio y cómo podéis alcanzar los distintos niveles de logro. Se utilizará una vez finalizado el tiempo establecido para realizar la tarea.</p>
+<p>Además, nos ayudará a comprobar qué aspectos lleváis mejor y en cuáles necesitamos seguir trabajando un poco más. Si fuese necesario, podremos dedicar más tiempo a la actividad o buscar nuevas formas de aprender los contenidos.</p>
+<p>A continuación, podéis ver la rúbrica que utilizaremos para evaluar este proyecto.</p>
+<figure class="exe-figure position-center" style="width: 1366px;"><img src="{{context_path}}/content/resources/Documento de Rúbrica trabajo cooperativo en grupo naranja blanco.jpg" title="Rúbrica" width="1366" height="966" alt="" />
+<figcaption class="figcaption"><span class="author">María Isabel Domínguez Gil</span>. <span class="title"><em>Rúbrica de evaluación "La Magia Verde"</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvsp-14xcw0pnz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La <strong>rúbrica</strong> os servirá como una guía para saber qué aspectos se van a tener en cuenta durante la realización de las actividades y qué debéis conseguir en cada uno de los niveles. Gracias a ella, podréis conocer de forma más clara <strong>cómo será vuestra evaluación</strong> y <strong>qué podéis hacer para mejorar vuestro trabajo.</strong></p>\n<p>En esta rúbrica se explica qué se espera en cada criterio y cómo podéis alcanzar los distintos niveles de logro. Se utilizará una vez finalizado el tiempo establecido para realizar la tarea.</p>\n<p>Además, nos ayudará a comprobar qué aspectos lleváis mejor y en cuáles necesitamos seguir trabajando un poco más. Si fuese necesario, podremos dedicar más tiempo a la actividad o buscar nuevas formas de aprender los contenidos.</p>\n<p>A continuación, podéis ver la rúbrica que utilizaremos para evaluar este proyecto.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1366px;\"><img src=\"{{context_path}}/content/resources/Documento de Rúbrica trabajo cooperativo en grupo naranja blanco.jpg\" title=\"Rúbrica\" width=\"1366\" height=\"966\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Isabel Domínguez Gil</span>. <span class=\"title\"><em>Rúbrica de evaluación \"La Magia Verde\"</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-ax9pg1t6b</odePageId>
+      <odeBlockId>block-mp43fvsp-ge4dpxb5x</odeBlockId>
+      <blockName>DIANA DE EVALUACIÓN </blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-ax9pg1t6b</odePageId>
+          <odeBlockId>block-mp43fvsp-ge4dpxb5x</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvsp-izir3c043</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Otro de los instrumentos que utilizaremos será la <strong>diana de autoevaluación</strong>, especialmente en las actividades de trabajo cooperativo. Con ella podréis reflexionar sobre cómo habéis trabajado en equipo y valorar aspectos importantes como vuestra participación, el esfuerzo, la ayuda a los compañeros o la forma de colaborar durante las tareas.</p>
+<p>La diana se completará a lo largo de todo el proyecto, cada vez que terminemos una actividad cooperativa, y no solo al final. Así podréis ir viendo vuestra <strong>evolución </strong>poco a poco y pensar en <strong>qué aspectos podéis seguir mejorando</strong>.</p>
+<p>Además, esta herramienta nos ayudará a conocer mejor vuestro progreso, tanto en los criterios trabajados como en otros aspectos importantes del día a día en el aula.</p>
+<p>A continuación, podéis ver la diana de autoevaluación que utilizaremos durante este proyecto.</p>
+<figure class="exe-figure exe-image license-CC-BY-NC-SA position-center" style="width: 1366px;"><img src="{{context_path}}/content/resources/Rosa azul verde ficha educativa herramienta de evaluación diana lectura en voz alta .jpg" alt="" width="1366" height="966" hspace="auto" title="Diana de autoevaluación" />
+<figcaption class="figcaption"><span class="author">María Isabel Domínguez Gil</span>. <span class="title"><em>Diana de evaluación 'La Magia Verde'</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mp43fvsp-izir3c043","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Otro de los instrumentos que utilizaremos será la <strong>diana de autoevaluación</strong>, especialmente en las actividades de trabajo cooperativo. Con ella podréis reflexionar sobre cómo habéis trabajado en equipo y valorar aspectos importantes como vuestra participación, el esfuerzo, la ayuda a los compañeros o la forma de colaborar durante las tareas.</p>\n<p>La diana se completará a lo largo de todo el proyecto, cada vez que terminemos una actividad cooperativa, y no solo al final. Así podréis ir viendo vuestra <strong>evolución </strong>poco a poco y pensar en <strong>qué aspectos podéis seguir mejorando</strong>.</p>\n<p>Además, esta herramienta nos ayudará a conocer mejor vuestro progreso, tanto en los criterios trabajados como en otros aspectos importantes del día a día en el aula.</p>\n<p>A continuación, podéis ver la diana de autoevaluación que utilizaremos durante este proyecto.</p>\n<figure class=\"exe-figure exe-image license-CC-BY-NC-SA position-center\" style=\"width: 1366px;\"><img src=\"{{context_path}}/content/resources/Rosa azul verde ficha educativa herramienta de evaluación diana lectura en voz alta .jpg\" alt=\"\" width=\"1366\" height=\"966\" hspace=\"auto\" title=\"Diana de autoevaluación\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Isabel Domínguez Gil</span>. <span class=\"title\"><em>Diana de evaluación 'La Magia Verde'</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp43fvsn-yif9uhksy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>15</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp43fvsn-yif9uhksy</odePageId>
+      <odeBlockId>block-mp43fvsp-0xhxqzgi3</odeBlockId>
+      <blockName>Descargar archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp43fvsn-yif9uhksy</odePageId>
+          <odeBlockId>block-mp43fvsp-0xhxqzgi3</odeBlockId>
+          <odeIdeviceId>idevice-mp43fvsp-gwmjn45r8</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>La Magia Verde</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td style="text-align: justify;">Con este recurso descubrirás el fascinante mundo de las plantas mediante actividades de investigación, observación y trabajo cooperativo. Además, aprenderás a buscar y organizar información, utilizar diferentes herramientas digitales y desarrollar estrategias para trabajar en equipo y resolver pequeñas dificultades durante el proceso de aprendizaje.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>María Isabel Domínguez Gil</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#56cfff;color:#000000;">Descargar el fichero .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
